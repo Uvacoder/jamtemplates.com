@@ -1,6 +1,6 @@
 /* eslint-env node */
 
-const defaultSiteUrl = 'https://jamtemplates.com'
+const defaultSiteUrl = 'https://jamtemplates-com-sand.vercel.app'
 
 const {
   NODE_ENV,
