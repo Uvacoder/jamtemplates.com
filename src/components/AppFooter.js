@@ -35,7 +35,7 @@ export function AppFooter() {
     <Container display="flex" alignItems="center" mt={4} pb={4}>
       <Copyright>
         {/* Jam Templates © {currentYear} <br /> */}
-        Made with ❤️ by <a href="https://gregberge.com">Greg Bergé</a>
+        Made with ❤️ by <a href="https://gregberge.com">Greg Bergé and uva</a>
       </Copyright>
       <Socials>
         <SocialLink
