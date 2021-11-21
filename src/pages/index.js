@@ -16,11 +16,11 @@ export default function IndexPage({ data }) {
     <>
       <Hero>
         <h1>
-          Beautiful Themes <br />
+          Beautiful abc Themes <br />
           for Gatsby
         </h1>
         <p>
-          A curated collection of free templates to build applications using{' '}
+          A curated collection of abc templates to build applications using{' '}
           <a href="http://gatsbyjs.com/">Gatsby</a> and{' '}
           <a href="https://jamstack.org/">JamStack</a>.
         </p>
