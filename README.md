@@ -1,5 +1,5 @@
 # JamTemplates
-
+--
 A curated list of beautiful & ready-to-use themes for Gatsby.
 
 ## Submit A Theme
